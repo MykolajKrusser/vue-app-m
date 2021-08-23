@@ -1,6 +1,8 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" class="mx-auto pb-5"/>
-  <HelloWorld/>
+  <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <img alt="Vue logo" src="./assets/logo.png" class="mx-auto pb-5"/>
+    <HelloWorld/>
+  </div>
 </template>
 
 <script setup>
